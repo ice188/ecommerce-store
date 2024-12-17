@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/github_username/repo_name](https://github.com/ice188/ecommerce-store)">
-    <img src="client/public/logo.png" alt="Logo">
+    <img src="img/logo.png" alt="Logo">
   </a>
 
   <p align="center"><br />
@@ -31,10 +31,10 @@
   - login & logout (session-based authentication)
   - profile (edit and save username and shipping address)
 
-<p align="middle">
-  <img src="img/login" width="100" />
-  <img src="img/register" width="100" /> 
-</p>
+<div align="middle">
+  <img src="img/login.png" width="300" />
+  <img src="img/register.png" width="300" /> 
+</div>
 
 - Product
   - list of all products
