@@ -33,22 +33,41 @@
 
 <div align="middle">
   <img src="img/login.png" width="300" />
-  <img src="img/register.png" width="300" /> 
+  <img src="img/resgiter.png" width="300" /> 
+  <img src="img/account.png" width="300" /> 
 </div>
 
 - Product
   - list of all products
   - lists filtered by "most popular" and "newest arrival"
-  - product detail - add to cart, add review
+  - product detail - add to cart, customer reviews
   - search a product
+ 
+<div align="middle">
+  <img src="img/product-list.png" width="300" />
+  <img src="img/product-detail.png" width="300" /> 
+  <img src="img/review-list.png" width="300" /> 
+  <img src="img/write-review.png" width="300" /> 
+</div>
+
 - Cart
   - view cart items, view total
   - secured checkout (Stripe API)
+ 
+<div align="middle">
+  <img src="img/cart.png" width="300" />
+  <img src="img/checkout.png" width="300" /> 
+</div>
+
 - Order
   - order history and status
   - cancel pending orders
   - filter by order date and/or status
-    
+
+<div align="middle">
+  <img src="img/order-list.png" width="300" />
+</div>
+
 ## Fix Log
 - Dec 14 2024: Session not persisted after logging in. Works fine locally.
   - issue: on.render.com is public domain which does not support cookies
