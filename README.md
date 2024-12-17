@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/github_username/repo_name](https://github.com/ice188/online-store)">
+  <a href="[https://github.com/github_username/repo_name](https://github.com/ice188/ecommerce-store)">
     <img src="client/public/logo.png" alt="Logo">
   </a>
 
@@ -32,8 +32,8 @@
   - profile (edit and save username and shipping address)
 
 <p align="middle">
-  <img src="https://github.com/ice188/ecommerce-store/img/login" width="100" />
-  <img src="https://github.com/ice188/ecommerce-store/img/register" width="100" /> 
+  <img src="img/login" width="100" />
+  <img src="img/register" width="100" /> 
 </p>
 
 - Product
