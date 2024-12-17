@@ -32,9 +32,9 @@
   - profile (edit and save username and shipping address)
 
 <div align="middle">
-  <img src="img/login.png" width="300" />
-  <img src="img/resgiter.png" width="300" /> 
-  <img src="img/account.png" width="300" /> 
+  <img src="img/login.png" width="200" />
+  <img src="img/resgiter.png" width="200" /> 
+  <img src="img/account.png" width="200" /> 
 </div>
 
 - Product
