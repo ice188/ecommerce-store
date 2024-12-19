@@ -32,9 +32,9 @@
   - profile (edit and save username and shipping address)
 
 <div align="middle">
-  <img src="img/login.png" width="200" />
-  <img src="img/resgiter.png" width="200" /> 
-  <img src="img/account.png" width="200" /> 
+  <img src="img/login.png" width="300" />
+  <img src="img/resgiter.png" width="300" /> 
+  <img src="img/account.png" width="300" /> 
 </div>
 
 - Product
@@ -72,6 +72,8 @@
 - Dec 14 2024: Session not persisted after logging in. Works fine locally.
   - issue: on.render.com is public domain which does not support cookies
   - solution: migrated authentication method from express-session to jwt
+- Dec 18 2024: Header flyout menu not in correct state after logout
+- Dec 18 2024: Cart quantity is immutable
 
 ## Side Notes
 - free render databases expire in a month. Restore data by `{DATABASE_PSQL_COMMAND} < database/ebuyx_backup.sql`
