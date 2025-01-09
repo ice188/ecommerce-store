@@ -19,11 +19,11 @@
 </div>
 
 ## Project Highlight
-- fully responsive mobile/desktop layout powered by TailwindCSS
-- secure JWT authentication and OTP verification
+- fully responsive frontend powered by TailwindCSS
+- secure JWT authentication and OTP verification with Node.js
 - secure checkout with StripeAPI integration
-- organized project structure by features
-- automated CI/CD pipeline and Docker containerization
+- vertical slice architecture for source code modularization
+- automated CI/CD pipeline using Docker and Github Actions
 
 ## Features
 - User
